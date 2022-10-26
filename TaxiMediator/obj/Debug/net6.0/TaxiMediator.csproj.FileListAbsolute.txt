@@ -1,0 +1,15 @@
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/bin/Debug/net6.0/TaxiMediator
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/bin/Debug/net6.0/TaxiMediator.deps.json
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/bin/Debug/net6.0/TaxiMediator.runtimeconfig.json
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/bin/Debug/net6.0/TaxiMediator.dll
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/bin/Debug/net6.0/TaxiMediator.pdb
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/TaxiMediator.csproj.AssemblyReference.cache
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/TaxiMediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/TaxiMediator.AssemblyInfoInputs.cache
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/TaxiMediator.AssemblyInfo.cs
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/TaxiMediator.csproj.CoreCompileInputs.cache
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/TaxiMediator.dll
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/refint/TaxiMediator.dll
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/TaxiMediator.pdb
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/TaxiMediator.genruntimeconfig.cache
+/Users/ivan.stoyanov/Projects/TaxiMediator/TaxiMediator/obj/Debug/net6.0/ref/TaxiMediator.dll
